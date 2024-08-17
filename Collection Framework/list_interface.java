@@ -18,6 +18,7 @@ public class list_interface {
         System.out.println(list2);
 
 
+
         list.addAll(0,list2);
         System.out.println("List 1"+list);
 
