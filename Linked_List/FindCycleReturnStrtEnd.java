@@ -8,9 +8,6 @@ class Node{
     }}
 public class FindCycleReturnStrtEnd 
 {
-
-     
-   
     static void findcycle(Node n) {
         Node next = n;
         Node head = n;
